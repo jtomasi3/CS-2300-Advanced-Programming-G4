@@ -1,5 +1,8 @@
 #include <iostream>
-
+//Sums all the even numbers in a fibonnacci sequence under 4000000
+//Takes nothing
+//Returns nothing
+//Modifies nothing
 int main()
 {
     int a = 0, b = 1;
